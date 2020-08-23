@@ -1,2 +1,1 @@
-# IPTV
-BDIX
+# IPTV - BDIX Supported
