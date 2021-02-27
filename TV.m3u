@@ -104,10 +104,10 @@ http://tv2.ebox.live:8080/live/animale-planet.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/pxOvaRI.png" group-title="Foreign",NationalGeographic
 http://tv2.ebox.live:8080/live/natg.m3u8
 
-#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/File:T_Sports_logo.png" group-title="Sports",TSports HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/fBQrHcx.png" group-title="Sports",TSports HD
 http://tv2.ebox.live:8080/live/ex-titash2.m3u8
 
-#EXTINF:0 tvg-logo="https://imgur.com/dXn7ltV" group-title="Sports",SonySix HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/dXn7ltV.png" group-title="Sports",SonySix HD
 http://tv2.ebox.live:8080/live/sonysix.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/4qrxHIW.png" group-title="Sports",SonyEspn
