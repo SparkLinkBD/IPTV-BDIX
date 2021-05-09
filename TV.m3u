@@ -30,7 +30,7 @@ http://tv2.ebox.live:8080/live/ex-atnae.m3u8
 http://tv2.ebox.live:8080/live/ex-gan.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/glTff5A.png" group-title="BD",Maasranga TV
-http://tv2.ebox.live:8080/live/maasranga.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg" group-title="BD",Channel 9
 http://tv2.ebox.live:8080/live/channel9.m3u8
