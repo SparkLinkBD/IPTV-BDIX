@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1  group-title="BD" tvg-logo="https://i.imgur.com/P9wsfEt.png",GTV HD
 http://tv.gundapanda.com:100/hls/netscope-1.m3u8
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.imgur.com/128st1s.png",Toffee HD
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.imgur.com/CgqSr4p.png",StarSports-1
 http://tv.gundapanda.com:100/hls/2.m3u8
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.imgur.com/p1dDFTn.png",TenSports
@@ -15,5 +17,4 @@ http://tv.gundapanda.com:100/hls/netscope-4.m3u8
 http://tv.gundapanda.com:100/hls/3.m3u8
 #EXTINF:-1  group-title="Indian Bangla" tvg-logo="https://i.imgur.com/sVK7liT.png",ZeeBangla HD
 http://tv.gundapanda.com:100/hls/1.m3u8
-#EXTINF:-1  group-title="Indian Bangla" tvg-logo="https://i.imgur.com/128st1s.png",Toffee HD
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+
