@@ -2,13 +2,22 @@
 #EXTINF:-1  group-title="BD" tvg-logo="https://i.imgur.com/P9wsfEt.png",GTV HD
 http://23.255.0.10:8080/ns-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="BD" tvg-logo="https://i.imgur.com/P9wsfEt.png",GTV HD
-http://tv.gundapanda.com:100/hls/netscope-1.m3u8
+http://10.90.90.106:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="BD" tvg-logo="https://i.imgur.com/P9wsfEt.png",GTV HD
 http://172.16.215.142/hls/Gazi-TV-7998.ts
+#EXTINF:-1  group-title="BD" tvg-logo="https://i.imgur.com/P9wsfEt.png",GTV HD
+http://live.flixhub.net/hls/Gazi-TV.m3u8
+#EXTINF:-1  group-title="BD" tvg-logo="https://i.imgur.com/P9wsfEt.png",GTV HD
+
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.imgur.com/128st1s.png",Toffee HD
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.imgur.com/Eaun4cB.png",TSportsHD
 http://23.255.0.10:8080/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.imgur.com/ly4QiC1.png",Dubai-Sports
+http://10.90.90.106:8082/Dubai-Sports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.imgur.com/4IlfubI.png",Bein-Sports
+http://10.90.90.106:8082/Bein-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.imgur.com/CgqSr4p.png",StarSports-1
 http://tv.gundapanda.com:100/hls/2.m3u8
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.imgur.com/p1dDFTn.png",TenSportsHD
@@ -20,6 +29,12 @@ http://23.255.0.10:100/hls/netscope-3.m3u8
 #EXTINF:-1  group-title="BD" tvg-logo="https://i.imgur.com/qSdqXsS.png",Somoy TV
 http://23.255.0.10:100/hls/netscope-4.m3u8
 #EXTINF:-1  group-title="Indian Bangla" tvg-logo="https://i.imgur.com/JUmzuAg.png",StarJalsha HD
+http://10.90.90.106:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Indian Bangla" tvg-logo="https://i.imgur.com/JUmzuAg.png",StarJalsha HD
 http://tv.gundapanda.com:100/hls/3.m3u8
+#EXTINF:-1  group-title="Indian Bangla" tvg-logo="https://i.imgur.com/sVK7liT.png",ZeeBangla HD
+#EXTINF:-1  group-title="Indian Bangla" tvg-logo="https://i.imgur.com/sVK7liT.png",ZeeBangla HD
+http://live.flixhub.net/hls/zeebanglahd.m3u8
+http://10.90.90.106:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Indian Bangla" tvg-logo="https://i.imgur.com/sVK7liT.png",ZeeBangla HD
 http://tv.gundapanda.com:100/hls/1.m3u8
